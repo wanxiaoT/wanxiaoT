@@ -1,5 +1,4 @@
-# 万哥牛逼 永久地址
-## 官网永久地址：HttpS://wanxiaot.github.io
+# 官网永久地址：HttpS://wanxiaot.github.io
 ## ⭐️👉 万哥の网站 ：HttpS://wanxiaot.github.io/
 ## ‼️‼️在浏览器里面访问以上网址‼️  ‼️
 ## ‼️请使用Ctrl+D收藏本站!|电脑/Ipad/手机都可以用

@@ -6,6 +6,10 @@
 ### 网页目录：Https://wanxiao.ysepan.com/
 ### 密码：6666
 
-## 蛋黄工具箱
+## 蛋黄工具箱（Windows）
 ## 官网HTTPS://dh.153595.xyz/
 ### 反馈 dh@153595.xyz
+
+## 一简工具箱（Android）
+## 官网HTTPS://aoc.153595.xyz/
+### 反馈 aoc@153595.xyz

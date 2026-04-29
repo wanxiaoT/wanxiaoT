@@ -2,5 +2,5 @@
 ### https://wanxiaot.com/
 ### 我牛逼
 ### Pronouns /He|Him|王晓婷/
-![Skill Icons](https://skillicons.dev/icons?perline=7&i=vscode,vscode,vscode,vscode,vscode,vscode,vscode,vscode,github,html,css,javascript,php,vscode,vscode,visualstudio,qt,cpp,cmake,bash,vscode,vscode,windows,linux,debian,cloudflare,ubuntu,vscode,vscode,androidstudio,kotlin,c,cs,docker,vscode,vscode,vscode,vscode,vscode,vscode,vscode,vscode&theme=light)
+![Skill Icons](https://skillicons.dev/iconsperline=5&i=github,html,css,javascript,php,visualstudio,qt,cpp,cmake,bash,windows,linux,debian,cloudflare,ubuntu,androidstudio,kotlin,c,cs,docker,gradle,md,npm,postgres,powershell,py&theme=light)
 ### Let We Creat The World
